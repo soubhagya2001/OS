@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
 
+
 class Process implements Comparable<Process> {
 	int index;
 	int arrTime;
