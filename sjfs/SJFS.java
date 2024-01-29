@@ -1,8 +1,7 @@
 package sjfs;
 import java.util.Scanner;
 public class SJFS {
-	static int[][] mat = new int[10][6];
-
+	static int[][] mat = new int[10][6];
 
 	static void arrangeArrival(int num, int[][] mat) {
 	for (int i = 0; i < num; i++) {
